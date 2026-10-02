@@ -27,11 +27,11 @@ The whole app uses a dark glass-style design with smooth animations.
 
 | 🏠 Home | ⚡ Generate QR | 🪪 QR Card |
 |:-------:|:-------------:|:----------:|
-| [<img src="image/home.jpeg" width="230" alt="Home Screen">](image/home.jpeg) | [<img src="image/GQR.jpeg" width="230" alt="Generate QR">](image/GQR.jpeg) | [<img src="image/QRCard.jpeg" width="230" alt="QR Card">](image/QRCard.jpeg) |
+| [<img src="assets/images/home.jpeg" width="230" alt="Home Screen">](assets/images/home.jpeg) | [<img src="assets/images/GQR.jpeg" width="230" alt="Generate QR">](assets/images/GQR.jpeg) | [<img src="assets/images/QRCard.jpeg" width="230" alt="QR Card">](assets/images/QRCard.jpeg) |
 
 *Click any screenshot to view it in full size.*
 
-[Home](image/home.jpeg) · [Generate QR](image/GQR.jpeg) · [QR Card](image/QRCard.jpeg)
+[Home](assets/images/home.jpeg) · [Generate QR](assets/images/GQR.jpeg) · [QR Card](assets/images/QRCard.jpeg)
 
 </div>
 
