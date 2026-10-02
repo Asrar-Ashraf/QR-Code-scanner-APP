@@ -9,8 +9,6 @@
 ![Material 3](https://img.shields.io/badge/Material%203-7C6CFF?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Platform](https://img.shields.io/badge/Android%20%7C%20iOS-22D3EE?style=for-the-badge)
 
-*Built as Task 1 of the **Auspify Technologies** Flutter Development Internship*
-
 </div>
 
 ---
@@ -29,11 +27,11 @@ The whole app uses a dark glass-style design with smooth animations.
 
 | 🏠 Home | ⚡ Generate QR | 🪪 QR Card |
 |:-------:|:-------------:|:----------:|
-| [<img src="image/home.jpeg" width="230" alt="Home Screen">](image/home.jpeg) | [<img src="image/1%20GQR.jpeg" width="230" alt="Generate QR">](image/1%20GQR.jpeg) | [<img src="image/QRCard.jpeg" width="230" alt="QR Card">](image/QRCard.jpeg) |
+| [<img src="image/home.jpeg" width="230" alt="Home Screen">](image/home.jpeg) | [<img src="image/GQR.jpeg" width="230" alt="Generate QR">](image/GQR.jpeg) | [<img src="image/QRCard.jpeg" width="230" alt="QR Card">](image/QRCard.jpeg) |
 
 *Click any screenshot to view it in full size.*
 
-[Home](image/home.jpeg) · [Generate QR](image/1%20GQR.jpeg) · [QR Card](image/QRCard.jpeg)
+[Home](image/home.jpeg) · [Generate QR](image/GQR.jpeg) · [QR Card](image/QRCard.jpeg)
 
 </div>
 
@@ -129,21 +127,13 @@ flutter run
 
 ---
 
-## 🎓 About the Internship
-
-This project was completed as part of the **Flutter Development Internship** at **Auspify Technologies**, a 4-week remote program focused on practical, project-based learning.
-
----
-
 ## 👤 Author
 
-**Your Name**
-Flutter Development Intern @ Auspify Technologies
+**Muhammad Asrar**
+Flutter Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
-`#Auspify` `#AuspifyTechnologies` `#AuspifyInternship` `#AuspifyProjects`
 
 ---
 
